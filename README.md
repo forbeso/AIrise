@@ -1,4 +1,4 @@
-# AIrise
+# Alrise
 
 🚀 Awesome Alarm Clock AI App 🕒
 
@@ -26,5 +26,14 @@ This cool Alarm Clock AI app allows you to wake up in a personalized and motivat
 🔊 Get ready to wake up to an extraordinary day with this Alarm Clock AI app! 🔥
 
 📝 Note: Make sure to insert your OpenAI API key in the provided field for the app to function properly.
+
+💻 How to Run the Project:
+1. Clone the repository to your local machine.
+2. Install the required dependencies by running the command: `pip install -r requirements.txt`.
+3. Open the `main.py` file and insert your OpenAI API key in the designated field.
+4. Customize the wake-up phrase prompt in the `generate_phrase` function if desired.
+5. Run the `main.py` file to start the application.
+6. Follow the prompts to set up and manage your alarms.
+7. Enjoy the motivational wake-up phrases and start your day on a positive note!
 
 🎶 Enjoy the motivational audio and start your day with a bang! 🌟
